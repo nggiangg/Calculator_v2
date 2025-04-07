@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- filepath: d:\Calculator_v2\app\src\main\res\drawable\button_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF9800" /> <!-- Màu nền -->
+    <corners android:radius="16dp" /> <!-- Góc bo tròn -->
+    <stroke
+        android:width="2dp"
+        android:color="#FF5722" /> <!-- Viền -->
+</shape>
